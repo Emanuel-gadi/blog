@@ -265,11 +265,11 @@ body{
     float: none;
 }
     
-    .footer_menu_section {height: auto;}
+    .footer_menu_section {height: auto; padding-top: 20px;}
     .footer_menu_section2 {height: auto;}
     .footer_menu_project{height: auto;}
     
-.footer_menu_project h5 {padding: 0px; margin: 0px;}
+.footer_menu_project h5 {padding: 5px; margin: 0px;}
     .footer_menu_section_item h4{padding: 0px; margin: 0px;}
 }
 
